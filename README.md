@@ -2,7 +2,7 @@ KaggleWinterBeaverCTR
 =====================
 Beavers doing Kaggle Cases
 
-Team:</n>
+Team:</nl>
 Ben Tang
 Nina Duong
 Teresa Wolf
