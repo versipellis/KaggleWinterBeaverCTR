@@ -2,9 +2,9 @@ KaggleWinterBeaverCTR
 =====================
 Beavers doing Kaggle Cases
 
-<i>Team:</li>
-<i>Ben Tang</li>
-<i>Nina Duong</i>
-<i>Teresa Wolf</i>
-<i>Jerry Lee</i>
-<i>Nelson Munoz</i>
+<li>Team:</li>
+<li>Ben Tang</li>
+<li>Nina Duong</li>
+<li>Teresa Wolf</li>
+<li>Jerry Lee</li>
+<li>Nelson Munoz</li>
