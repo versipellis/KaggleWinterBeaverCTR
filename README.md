@@ -3,7 +3,6 @@ KaggleWinterBeaverCTR
 Beavers doing Kaggle Cases
 
 <ol>
-<li>Team:</li>
 <li>Ben Tang</li>
 <li>Nina Duong</li>
 <li>Teresa Wolf</li>
