@@ -26,7 +26,7 @@ output: word_document
   * Go to Tools->Global Options->Git/SVN  
   * Click on "Browse" next to "Git executable:"  
   * Point it to your Git executable file (e.g. "D:/Data Science/Git/bin/git.exe")  
-2. Connect the Github repo to RStudio  
+1. Connect the Github repo to RStudio  
   * Go to File->New Project->Version Control->Git in RStudio  
   * Under "Repository URL", paste this in: https://github.com/versipellis/KaggleWinterBeaverCTR  
   * This is the Github link to the repo  
